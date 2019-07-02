@@ -57,25 +57,25 @@ mission:
 benefit_analysis:
   cards:
     - content: >
-        Farmers get more meaningful ideas and answers because the data that
-        inspires those ideas are industry-wide, whichtakerisk out of changing
-        farming practices.
-      heading: Farmers
-    - content: >
         Retailers can offer radical transparency from soil to shelf and
         everywhere in between, so customers know every product’story,and have
         new reason to be loyal shoppers.
       heading: Retailers
     - content: >
-        Processors get a competitive advantage by seeing the origins behind
-        their ingredients, so they can improve mix ratiosefficiencies and create
-        products that are better suited to consumer tastes.
-      heading: Processors
+        Farmers get more meaningful ideas and answers because the data that
+        inspires those ideas are industry-wide, whichtakerisk out of changing
+        farming practices.
+      heading: Farmers
     - content: >
         Consumers who can see where their food comes from, how it’s been
         produced, and what impacts its’ having on sustainability and the
         environment are  more brand loyal.
       heading: Consumers
+    - content: >
+        Processors get a competitive advantage by seeing the origins behind
+        their ingredients, so they can improve mix ratiosefficiencies and create
+        products that are better suited to consumer tastes.
+      heading: Processors
   title: Benefit Analysis
   heading: A transparent supply chain to give everyone a better view.
 meta_title: Vyla | Dairy has a story to tell
